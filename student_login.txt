@@ -1,0 +1,2 @@
+stu1 p4ssword student
+stu2 pa$$word student
